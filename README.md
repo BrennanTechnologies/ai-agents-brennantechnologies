@@ -1,3 +1,5 @@
+![Brennan Technologies Logo](./resources/Brennan_Technologies_LLC-small2.png)
+
 # AI Agents - Brennan Technologies
 
 A modular Python framework for building agentic AI systems with:
